@@ -11,7 +11,7 @@ This is a very simple introduction to JSDoc [JSDoc](https://jsdoc.app).
 # Refs
 - **[JSDoc, Documentación en Javascript | Curso Práctico](https://www.youtube.com/watch?v=r0H-acWQS6c)**
 
-- **[GitHub Repo](https://github.com/FaztWeb/jsdoc-tutorial/tree/master/src):**
+- **[GitHub Repo](https://github.com/FaztWeb/jsdoc-tutorial/tree/master/src)**
 
 
 
